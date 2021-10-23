@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benitachoo
-- 👀 I’m interested in learning code for analysing data and uncovering insights.
+- 👀 I’m learning code to analyse data and uncover insights.
 - 🌱 I’m currently learning Python, SQL, Tableau, PowerBI and R.
-- 💞️ I’m looking to discuss and collaborate on any interesting data analytics passion projects.
+- 💞️ I’m open to discuss and collaborate on any interesting data analytics passion projects.
 - 📫 How to reach me: benitachoo@gmail.com
 
 <!---
